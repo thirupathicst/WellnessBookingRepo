@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1972
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WellnessBookingWebApp", "WellnessBookingWebApp\WellnessBookingWebApp.csproj", "{A3F09E3D-A8AF-47BA-98DD-6F4F971E3E5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBLayer", "DBLayer\DBLayer.csproj", "{2EFE9C8A-5740-43B8-837A-26CEC517AEF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A3F09E3D-A8AF-47BA-98DD-6F4F971E3E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3F09E3D-A8AF-47BA-98DD-6F4F971E3E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3F09E3D-A8AF-47BA-98DD-6F4F971E3E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EFE9C8A-5740-43B8-837A-26CEC517AEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EFE9C8A-5740-43B8-837A-26CEC517AEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EFE9C8A-5740-43B8-837A-26CEC517AEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EFE9C8A-5740-43B8-837A-26CEC517AEF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
